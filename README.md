@@ -96,7 +96,7 @@ classDiagram
 ```mermaid
 %% Example of sequence diagram
   sequenceDiagram
-    User->>Bot: Get Event Rsrvations
+    User->>Bot: Get Event Resrvations
     Bot->>User: List of Event with Reservations
     User->>Bot: Select Event
     Bot->>User: Info of the Event
@@ -109,7 +109,7 @@ classDiagram
 ```mermaid
 %% Example of sequence diagram
   sequenceDiagram
-    User->>Bot: Get Event Rsrvations
+    User->>Bot: Get Event Resrvations
     Bot->>User: List of Event with Reservations
     User->>Bot: Select Event
     Bot->>User: Info of the Event
